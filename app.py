@@ -14,7 +14,7 @@ def predict():
     '''
     For rendering results on HTML GUI
     '''
-    data1 = request.form.get('rating')
+    data1 = request.form.get('experience')
     data2 = request.form.get("role1")
     data3 = request.form.get("role2")
     data4 = request.form.get("role3")
