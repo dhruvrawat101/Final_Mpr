@@ -1,0 +1,16 @@
+.machineLearning {
+  margin-top: 100px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#one  {
+  text-align: left;
+}
+
+#two  {
+  text-align: center;
+}
+
